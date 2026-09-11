@@ -1,0 +1,71 @@
+{
+  "levelId": 8,
+  "gridSize": 6,
+  "exitY": 2,
+  "blocks": [
+    {
+      "id": "target",
+      "x": 0,
+      "y": 2,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": true
+    },
+    {
+      "id": "b0",
+      "x": 3,
+      "y": 2,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b1",
+      "x": 2,
+      "y": 1,
+      "length": 3,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b2",
+      "x": 4,
+      "y": 1,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b3",
+      "x": 5,
+      "y": 2,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b4",
+      "x": 3,
+      "y": 0,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    },
+    {
+      "id": "b5",
+      "x": 0,
+      "y": 0,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b6",
+      "x": 4,
+      "y": 4,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "levelId": 15,
+  "gridSize": 6,
+  "exitY": 2,
+  "blocks": [
+    { "id": "target", "x": 0, "y": 2, "length": 2, "orientation": "HORIZONTAL", "isTarget": true },
+    { "id": "w1", "x": 2, "y": 1, "length": 2, "orientation": "VERTICAL", "isTarget": false },
+    { "id": "w2", "x": 2, "y": 3, "length": 3, "orientation": "HORIZONTAL", "isTarget": false },
+    { "id": "w3", "x": 5, "y": 3, "length": 3, "orientation": "VERTICAL", "isTarget": false },
+    { "id": "w4", "x": 4, "y": 0, "length": 2, "orientation": "HORIZONTAL", "isTarget": false },
+    { "id": "w5", "x": 2, "y": 0, "length": 2, "orientation": "HORIZONTAL", "isTarget": false },
+    { "id": "w6", "x": 4, "y": 4, "length": 2, "orientation": "VERTICAL", "isTarget": false },
+    { "id": "w8", "x": 1, "y": 4, "length": 2, "orientation": "VERTICAL", "isTarget": false }
+  ]
+}

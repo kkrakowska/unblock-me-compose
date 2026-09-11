@@ -1,0 +1,95 @@
+{
+  "levelId": 11,
+  "gridSize": 6,
+  "exitY": 1,
+  "blocks": [
+    {
+      "id": "target",
+      "x": 1,
+      "y": 1,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": true
+    },
+    {
+      "id": "b0",
+      "x": 3,
+      "y": 1,
+      "length": 3,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b1",
+      "x": 5,
+      "y": 0,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b2",
+      "x": 4,
+      "y": 1,
+      "length": 3,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b3",
+      "x": 3,
+      "y": 5,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    },
+    {
+      "id": "b4",
+      "x": 2,
+      "y": 3,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b5",
+      "x": 0,
+      "y": 2,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    },
+    {
+      "id": "b6",
+      "x": 2,
+      "y": 0,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    },
+    {
+      "id": "b7",
+      "x": 0,
+      "y": 3,
+      "length": 2,
+      "orientation": "VERTICAL",
+      "isTarget": false
+    },
+    {
+      "id": "b8",
+      "x": 0,
+      "y": 0,
+      "length": 2,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    },
+    {
+      "id": "b9",
+      "x": 3,
+      "y": 4,
+      "length": 3,
+      "orientation": "HORIZONTAL",
+      "isTarget": false
+    }
+  ]
+}
